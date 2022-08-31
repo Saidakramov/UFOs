@@ -16,5 +16,9 @@
 <img width="1440" alt="country" src="https://user-images.githubusercontent.com/89552059/187623361-5b239979-f2f3-41d7-ba00-1dca327114c8.png">
 
 ## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development
 
+- This design might work well, but there is a drawback. If the user is unfamiliar with the data, such as knowing specific dates and shapes of the UFOs, it could be hard to navigate through a web application. 
+
+- To fix that issue, we could improve our web application with drop-down menus showing all the possible selections for each filter. For example: if the user wants to filter using the "Enter the shape" section, that filter can display all the known shapes, and the user can pick one and receive information accordingly.
+
+- Another improvement we can imply is the case insensitivity. The current program detects only the exact combination of letters. To search for the city Benton, we must type "benton," but if we type "Benton," it won't show any results even though it is the same city.  
